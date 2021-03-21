@@ -1,0 +1,203 @@
+.body {
+    font-family: 'Comic Sans MS', cursive;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.neon {
+    color: white;
+    transition: 1s;
+}
+
+.neon:hover {
+    color:  red;
+    transition: 0.3s;
+    text-shadow:
+            0 0 20px red,
+            0 0 20px red,
+            0 0 45px red,
+            0 0 30px red,
+            0 0 50px red,
+            0 0 50px red,
+            0 0 50px red,
+            0 0 50px red;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+}
+
+@media all and (min-width: 992px) {
+    .navbar .nav-item .dropdown-menu{ display: none; }
+    .navbar .nav-item:hover .nav-link{ color: #fff;  }
+    .navbar .nav-item:hover .dropdown-menu{ display: block; }
+    .navbar .nav-item .dropdown-menu{ margin-top:0; }
+}
+
+.img-responsive {
+    width: 100%;
+    height: auto;
+}
+
+
+
+.container-fluid{
+    margin-top: 4rem;
+    background: darkgrey;
+}
+
+video {
+    width: 100%;
+    height: 70rem;
+}
+
+.myn {
+    border-radius: 5px;
+    border: 3px solid black;
+    transition: border-color 0.5s ease-in 0.3s;
+    box-shadow: 0 0 10px black,
+    0 0 10px black,
+    0 0 10px black;
+}
+
+.myn:hover {
+    border-color: #FF1654;
+    box-shadow: 0 0 20px indianred,
+    0 0 10px indianred,
+    0 0 20px indianred,
+    0 0 20px indianred;
+}
+
+.myn2 {
+    border:3px solid black;
+    box-shadow: 0 0 10px black,
+    0 0 20px black,
+    0 0 10px black;
+}
+
+
+/* Colorize-zoom Container */
+.img-hover-zoom img {
+    transition: 3s;
+    transform: scale(0.7);
+    filter: grayscale(100%);
+}
+
+/* The Transformation */
+.img-hover-zoom:hover img {
+    transition: 0.2s;
+    transform: scale(0.9);
+    filter: grayscale(0);
+}
+
+.n2 {
+    color: indianred ;
+    font-size: 2.3em;
+    font-weight: bold;
+    transition: 0.6s;
+    font-family: "Bookman Old Style"  ;
+    text-shadow:
+            0 1px 0 #ccc,
+            0 2px 0 #c9c9c9,
+            0 3px 0 #bbb,
+            0 4px 0 #b9b9b9,
+            0 5px 0 #aaa,
+            0 6px 1px rgba(0,0,0,.1),
+            0 0 5px rgba(0,0,0,.1),
+            0 1px 3px rgba(0,0,0,.3),
+            0 3px 5px rgba(0,0,0,.2),
+            0 5px 10px rgba(0,0,0,.25),
+            0 10px 10px rgba(0,0,0,.2),
+            0 20px 20px rgba(0,0,0,.15);
+}
+
+.n2:hover {
+    text-decoration: none;
+    color: navajowhite;
+    transition: 0.6s;
+}
+
+.image {
+    position:relative;
+}
+
+.text {
+    color: white;
+    left: 0;
+    position:absolute;
+    text-align:center;
+    top: 40%;
+    width: 100%
+}
+
+.snb {
+    background: black;
+    font-size: 30px;
+    color: cyan;
+    transition: 1.2s;
+    border-radius: 20px;
+    padding: 5px;
+    box-shadow:  0 0 5px cyan,
+    0 0 10px cyan;
+}
+
+.snb:hover {
+    background: black;
+    font-size: 33px;
+    transition: 0.2s;
+    color:red;
+    text-decoration: none;
+    border-radius: 20px;
+    padding: 5px;
+    box-shadow:  0 0 14px red,
+    0 0 15px red,
+    0 0 2px red,
+    0 0 24px red,
+    0 0 10px red;
+}
+
+.neon23{
+    font-family: 'Arial', cursive;
+    color: orange;
+    letter-spacing: 8px;
+    text-shadow: 1px 0px 4px orangered, 2px 0px 4px orangered, 3px 0px 4px orangered, 2px 0px 3px orangered, 2px 3px 15px orangered, 2px 0px 15px, 5px 0px 125px, 20px 0vw 200px orangered,40px 0vw 200px orangered;
+}
+
+
+.prodcs {
+    border: 1px solid black;
+    color: black;
+    background-color: orange;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-shadow: 2px 2px 10px black;
+    border-radius: 20px;
+    box-shadow: 0 0 7px black;
+    transition: 0.5s;
+}
+
+.prodcs:hover {
+    border: 3px solid black;
+    color: black;
+    transition: 0.1s;
+}
+
+.shopc {
+    color: orangered;
+    border: 2px solid orangered;
+}
+
+
+
+
+
+
+
+
+
+
+
+

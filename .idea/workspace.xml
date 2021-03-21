@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2439b50-8d85-44c9-8da8-7d562f925b49" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iNBGUPG2ALnIUP7XE2Z0vG0RTX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../test_del_DEL" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\test_proj" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2439b50-8d85-44c9-8da8-7d562f925b49" name="Default Changelist" comment="" />
+      <created>1601738074864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601738074864</updated>
+      <workItem from="1601738076113" duration="19682000" />
+      <workItem from="1601799857940" duration="8043000" />
+      <workItem from="1601811501757" duration="10185000" />
+      <workItem from="1601825918907" duration="2242000" />
+      <workItem from="1601831363948" duration="2587000" />
+      <workItem from="1601845031679" duration="3201000" />
+      <workItem from="1601891132778" duration="29428000" />
+      <workItem from="1601947913909" duration="3376000" />
+      <workItem from="1602000807786" duration="14943000" />
+      <workItem from="1602059702429" duration="8949000" />
+      <workItem from="1602074563861" duration="677000" />
+      <workItem from="1602086091492" duration="5375000" />
+      <workItem from="1602104850006" duration="7208000" />
+      <workItem from="1602117801632" duration="2767000" />
+      <workItem from="1602153856618" duration="18945000" />
+      <workItem from="1602189327144" duration="26000" />
+      <workItem from="1602243159043" duration="1617000" />
+      <workItem from="1602336352928" duration="23012000" />
+      <workItem from="1602443792595" duration="3773000" />
+      <workItem from="1602489531955" duration="325000" />
+      <workItem from="1602490319715" duration="7665000" />
+      <workItem from="1602504534899" duration="1665000" />
+      <workItem from="1602508253826" duration="160000" />
+      <workItem from="1602619515681" duration="9458000" />
+      <workItem from="1602629926913" duration="368000" />
+      <workItem from="1602670316595" duration="1342000" />
+      <workItem from="1602692086129" duration="39023000" />
+      <workItem from="1602851857500" duration="89000" />
+      <workItem from="1602858301268" duration="919000" />
+      <workItem from="1603108612294" duration="732000" />
+      <workItem from="1607352078613" duration="809000" />
+      <workItem from="1607768861367" duration="2361000" />
+      <workItem from="1616356774173" duration="206000" />
+      <workItem from="1616356991056" duration="648000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="667" y="143" key="#PHP" timestamp="1602508265806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="143" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1602508265806" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601738220371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601738220371" />
+    <state x="751" y="439" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601835685831">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="751" y="439" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601835685831" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602556951317">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602556951317" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1602507986042">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602507986042" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1602799563488">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602799563488" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1602508279932">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602508279932" />
+    <state x="0" y="0" width="1561" height="1027" key="dock-window-1" timestamp="1602374310860">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" width="1561" height="1027" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1602374310860" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1602187573550">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602187573550" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1602262502624">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602262502624" />
+  </component>
+</project>
